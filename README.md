@@ -11,18 +11,28 @@
 - 📫 How to reach me: drop me a message at sa540276@gmail.com, or connect with me on LinkedIn. Let's chat about all things frontend.
 - ⚡ Fun fact: I once turned a complex design challenge into a friendly competition with my team, resulting in a surprisingly innovative solution that we still celebrate! 🏆✨
 
+## 💻 Technologies That I know:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,firebase,mongodb,nodejs,express,git)](https://skillicons.dev)
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://m.me/sadia6567) 
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sadiaafrin67&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 ## 🔥 My Github Activity Stack:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sadiaafrin67&theme=dark&hide_border=false)<br/>
 
+
 ## 😄 Language and technology I Used Most:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaafrin67&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sadiaafrin67}&theme={radical})
+
+
 
 
 ---
