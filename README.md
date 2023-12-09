@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on exciting frontend projects that focus on intuitive user interfaces, seamless animations, and innovative ways to marry design with functionality.
 - 🤔 I’m looking for help with fine-tuning performance in heavy-traffic React applications; open to insights on optimizing load times and enhancing overall frontend efficiency.
 - 💬 Ask me about frontend architecture, responsive design principles, or any questions related to JavaScript, React, HTML, and CSS—I'm here to share insights and tips.
-- 📫 How to reach me: drop me a message at sa540276@gmail.com, or connect with me on LinkedIn. Let's chat about all things frontend.
+- 📫 How to reach me: drop me a message at getintouchwithsadia@gmail.com, or connect with me on LinkedIn. Let's chat about all things frontend.
 - ⚡ Fun fact: I once turned a complex design challenge into a friendly competition with my team, resulting in a surprisingly innovative solution that we still celebrate! 🏆✨
 
 
@@ -21,7 +21,7 @@
 
 ⚙️ Sometimes, I dive into the world of back-end technologies like Express and Node, and hang out with MongoDB for database magic. It's like building digital playgrounds where every click is an adventure!
 
-🔗 Let's connect and explore the web together! You can find me on LinkedIn or shoot me an email at sa540276@gmail.com. Happy coding! 🚀💻
+🔗 Let's connect and explore the web together! You can find me on LinkedIn or shoot me an email at getintouchwithsadia@gmail.com. Happy coding! 🚀💻
 
 
 
