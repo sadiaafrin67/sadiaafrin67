@@ -45,7 +45,7 @@
 ## 😄 Language and technology I Used Most:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaafrin67&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sadiaafrin67}&theme={theme_name})
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sadiaafrin67}&theme={radical})
 
 
 
