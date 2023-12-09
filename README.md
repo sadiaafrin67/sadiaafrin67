@@ -21,7 +21,7 @@
 
 ⚙️ Sometimes, I dive into the world of back-end technologies like Express and Node, and hang out with MongoDB for database magic. It's like building digital playgrounds where every click is an adventure!
 
-🔗 Let's connect and explore the web together! You can find me on LinkedIn or shoot me an email at getintouchwithsadia@gmail.com. Happy coding! 🚀💻
+🔗 Let's connect and explore the web together! You can find me on LinkedIn or shoot me an email at getintouchwithsadia@gmail.com.
 
 
 
