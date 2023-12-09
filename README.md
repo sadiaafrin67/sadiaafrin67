@@ -2,7 +2,7 @@
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-
+🎯Current Focus and Engagement:
 - 🔭 I’m currently working on elevating user interactions through a sleek and responsive React component library, refining the visual aesthetics and ensuring a delightful user experience.
 - 🌱 I’m currently learning and exploring the nuances of state management in React and delving into advanced CSS techniques for more polished and dynamic frontend designs.
 - 👯 I’m looking to collaborate on exciting frontend projects that focus on intuitive user interfaces, seamless animations, and innovative ways to marry design with functionality.
