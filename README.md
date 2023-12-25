@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![MasterHead](https://i.ibb.co/6grY26b/sadu-banner.png)
+![MasterHead](https://i.ibb.co/TtDs39C/Black-Technology-Linked-In-Banner.png)
 
 
 
