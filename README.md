@@ -39,6 +39,27 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getintouchwithsadia@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.facebook.com/sadia6567">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:getintouchwithsadia@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
+      </a>
+    </td>
+    <td align="center">
+      <a href="<Your LinkedIn Profile Link>">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 # 📊 GitHub Stats:
