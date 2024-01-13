@@ -23,7 +23,7 @@
 
 ## 💻 Technologies That I know:
 
-
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,firebase,mongodb,nodejs,express,git">
@@ -36,7 +36,7 @@
 ## 🌐 Socials:
 
 
-
+<br/>
 <div align="center">
   <a href="https://www.facebook.com/sadia6567">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
