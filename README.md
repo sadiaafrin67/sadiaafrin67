@@ -41,7 +41,7 @@
   <a href="https://www.facebook.com/sadia6567">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
   </a>
-  <a href="mailto:sadiaafrin6567@gmail.com">
+  <a href="mailto:sa540276@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
   </a>
   <a href="https://www.linkedin.com/in/sadia-afrin-b3b260235">
