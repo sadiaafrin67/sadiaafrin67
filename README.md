@@ -24,11 +24,12 @@
 ## 💻 Technologies That I know:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,firebase,mongodb,nodejs,express,git)](https://skillicons.dev)
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,firebase,mongodb,nodejs,express,git" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,firebase,mongodb,nodejs,express,git" alt="My Skills" style="width: 50%;" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,firebase,mongodb,nodejs,express,git">
   </a>
-</div>
+</p>
+
 
 
 
