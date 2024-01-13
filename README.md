@@ -27,15 +27,13 @@
 
 ## 🌐 Socials:
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sadia6567)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getintouchwithsadia@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
 
 <div align="center">
   <a href="https://www.facebook.com/sadia6567">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
   </a>
-  <a href="mailto:getintouchwithsadia@gmail.com">
+  <a href="mailto:sadiaafrin6567@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
   </a>
   <a href="https://www.linkedin.com/in/sadia-afrin-b3b260235">
