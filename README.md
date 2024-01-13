@@ -38,7 +38,7 @@
   <a href="mailto:getintouchwithsadia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
   </a>
-  <a href="<Your LinkedIn Profile Link>">
+  <a href="<https://www.linkedin.com/in/sadia-afrin-b3b260235/>">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
 </div>
