@@ -75,12 +75,12 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadiaafrin67&theme=radical" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadiaafrin67&theme=radical" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadiaafrin67&theme=radical" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadiaafrin67&theme=radical" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadiaafrin67&theme=radical" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadiaafrin67&theme=radical&utcOffset=8" width="400"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiaafrin67&theme=radical" width="900"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadiaafrin67&theme=radical&utcOffset=8" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiaafrin67&theme=radical" />
 </div>
 
 
