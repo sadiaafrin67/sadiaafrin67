@@ -79,6 +79,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaafrin67&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sadiaafrin67}&theme={radical})
+</br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaafrin67&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiaafrin67&theme=radical" alt="GitHub Profile Summary" width="400" />
+</p>
+
 
 
 ##  📚Summary of My Profile
