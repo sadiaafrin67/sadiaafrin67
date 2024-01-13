@@ -15,7 +15,7 @@
 - 💬 Ask me about frontend architecture, responsive design principles, or any questions related to JavaScript, React, HTML, and CSS—I'm here to share insights and tips.
 - 📫 How to reach me: drop me a message at sadiaafrin6567@gmail.com, or connect with me on LinkedIn. Let's chat about all things frontend.
 
-
+<br/>
 
 
 
@@ -29,7 +29,7 @@
     <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,firebase,mongodb,nodejs,express,git">
   </a>
 </p>
-
+<br/>
 
 
 
@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
 </div>
-
+<br/>
 
 
 
