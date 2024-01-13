@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning and exploring the nuances of state management in React and delving into advanced CSS techniques for more polished and dynamic frontend designs.
 - 👯 I’m looking to collaborate on exciting frontend projects that focus on intuitive user interfaces, seamless animations, and innovative ways to marry design with functionality.
 - 💬 Ask me about frontend architecture, responsive design principles, or any questions related to JavaScript, React, HTML, and CSS—I'm here to share insights and tips.
-- 📫 How to reach me: drop me a message at sadiaafrin6567@gmail.com, or connect with me on LinkedIn. Let's chat about all things frontend.
+- 📫 How to reach me: drop me a message at sa540276@gmail.com, or connect with me on LinkedIn. Let's chat about all things frontend.
 
 <br/>
 
