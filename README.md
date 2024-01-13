@@ -54,7 +54,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sadiaafrin67&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sadiaafrin67&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiaafrin67&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+</div>
+
 
 
 ## 🔥 My Github Activity Stack:
