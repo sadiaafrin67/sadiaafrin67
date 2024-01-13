@@ -73,7 +73,7 @@
 
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadiaafrin67&theme=radical" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadiaafrin67&theme=radical" />
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadiaafrin67&theme=radical" width="400"/>
 
