@@ -2,6 +2,10 @@
 
 ![MasterHead](https://i.ibb.co/TtDs39C/Black-Technology-Linked-In-Banner.png)
 
+<h1 align="center">Hi, I'm Sadia Afrin</h1>
+<h3 align="center">A passionate frontend and React developer from Bangladesh</h3>
+<br/>
+
 
 
 ## 🎯Current Focus and Engagement:
